@@ -1,12 +1,11 @@
 {
   "foods": [
     {
-      "id": 1,
-      "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "MACHOKE",
       "price": "19.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
+      "id": 1
     },
     {
       "id": 2,
@@ -23,13 +22,6 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
-    },
-    {
-      "image": "https://i.pinimg.com/236x/ad/7e/8d/ad7e8de9fb9fe0099046933971b82792.jpg",
-      "name": "PIZZA",
-      "price": "2",
-      "description": "mama mia",
-      "id": 4
     }
   ]
 }
